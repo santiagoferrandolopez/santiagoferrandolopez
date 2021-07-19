@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santiagoferrando
 - 👀 I’m interested in Data Science, Machine Learning and Statistics in general.
 - 🌱 I’m currently learning Python trying to improve my knowledge
-- 💞️ I’m looking to collaborate on real problems specially in forestry industrie
+- 💞️ I’m looking to collaborate on real problems specially in forestry industry
 - 📫 How to reach me: Twitter @Ferrandoyascoci1
 
 <!---
